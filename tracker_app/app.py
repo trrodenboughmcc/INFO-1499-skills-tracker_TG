@@ -5,7 +5,7 @@ from flask import Flask, render_template
 import os
 
 # Create an instance of the Flask app
-//app = Flask(__name__)
+app = Flask(__name__)
 
 # -----------------------------
 # Hardcoded Data for the App
