@@ -76,7 +76,7 @@ def home():
 # -----------------------------
 if __name__ == '__main__':
     # Uncomment you're running the app locally, comment when you're deploying to Render
-    # app.run(debug=True)
+    #app.run(debug=True)
 
     # Uncomment when you're deploying to Render, comment when you're running locally
     # Render provides the PORT environment variable
